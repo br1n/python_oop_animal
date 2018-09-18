@@ -50,11 +50,7 @@ Dog().pet().display_health()
 
 print "*" * 50
 print Dragon().fly().display_health()
-#print Dragon().pet().display_health() #does not work - no attribute "fly"
+#print Dragon().pet().display_health() #does not work - no attribute "pet"
 
-
-
-
-    
 
 
